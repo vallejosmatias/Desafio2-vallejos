@@ -1,0 +1,11 @@
+[
+  {
+    "id": 2,
+    "title": "Oso",
+    "description": "articulado 3d",
+    "price": 3500,
+    "thumbnail": "imagen2.jpg",
+    "code": "DEF456",
+    "stock": 30
+  }
+]
